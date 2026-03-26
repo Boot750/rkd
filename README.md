@@ -1,3 +1,3 @@
-# Relay X Downloads
+# Arcace (RKD) Downloads
 
-Desktop app releases for Relay X.
+Desktop app releases for RKD.
