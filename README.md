@@ -1,3 +1,3 @@
-# Arcace (RKD) Downloads
+# Arcade (RKD) Downloads
 
 Desktop app releases for RKD.
